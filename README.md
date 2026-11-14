@@ -1,5 +1,3 @@
-# app-dev
-My first repository.
 # 🕷️ The Amazing Spider-Man (2012)
 
 ![Status](https://img.shields.io/badge/Favorite%20Movie-Yes-red)
