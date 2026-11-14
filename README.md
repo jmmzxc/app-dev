@@ -50,12 +50,22 @@ My first repository.
 
 If Spider-Man were a programmer, his motto might look like this:
 
-```python
-def spider_man(power):
-    responsibility = power
-    return f"With great power comes {responsibility} responsibility"
+```csharp
+using System;
 
-print(spider_man("great"))
+class Program
+{
+    static string SpiderMan(string power)
+    {
+        string responsibility = power;
+        return $"With great power comes {responsibility} responsibility";
+    }
+
+    static void Main()
+    {
+        Console.WriteLine(SpiderMan("great"));
+    }
+}
 ```
 
 ## 🔗 Useful Links
